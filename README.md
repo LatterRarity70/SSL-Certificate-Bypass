@@ -1,3 +1,7 @@
+## cancelled and useless due to lack of proper verification and research of the game, consider this project a mistake.
+
+---
+
 # SSL Certificate Bypass
 
 bypasses ssl certificate verification in gd
