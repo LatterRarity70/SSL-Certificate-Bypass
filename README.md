@@ -1,4 +1,11 @@
-## cancelled and useless due to lack of proper verification and research of the game, consider this project a mistake.
+## useless due to lack of proper game research: game already ignores ssl stuff... 
+```cpp
+// from source of geometry dash network lib:
+curl_easy_setopt(v10, 0x40i64, 0i64); // CURLOPT_SSL_VERIFYPEER = 0
+curl_easy_setopt(v10, 0x51i64, 0i64); // CURLOPT_SSL_VERIFYHOST = 0  
+curl_easy_setopt(v10, 0x63i64, 1i64); // CURLOPT_SSL_ENABLE_NPN = 1
+```
+### consider this project as mistake.
 
 ---
 
