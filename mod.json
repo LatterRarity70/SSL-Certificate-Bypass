@@ -1,0 +1,23 @@
+{
+	"geode": "4.9.0",
+	"early-load": true,
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074"
+	},
+	"id": "_lr70.ssl-bypass",
+	"name": "SSL Certificate Bypass",
+	"version": "v1.0.0-beta.1",
+	"developer": "LatterRarity70",
+	"description": "Bypasses SSL certificate verification to access blocked sites like Newgrounds in Russia",
+	"tags": [
+		"online",
+		"cheat",
+		"bugfix"
+	],
+	"links": {
+		"community": "https://discord.gg/6SxAbk3bTA",
+		"homepage": "https://t.me/LatterRarity70",
+		"source": "https://github.com/LatterRarity70/SSL-Certificate-Bypass"
+	}
+}
